@@ -34,6 +34,9 @@
    - **Data Visualization:**
      - Created dashboards using AWS QuickSight for analyzing trends in YouTube videos.
 
+![Image Description](image_url)
+
+
 ### **4. Technologies Used:**
    - AWS S3: Storage service for hosting raw and cleaned data.
    - AWS Glue: Used for data cataloging, ETL, and job orchestration.
