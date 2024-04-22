@@ -34,7 +34,7 @@
    - **Data Visualization:**
      - Created dashboards using AWS QuickSight for analyzing trends in YouTube videos.
 
-![Image Description](image_url)
+![Image Description](https://github.com/ujjwal-dhiman-ai/youtube-trending-videos-analysis/blob/main/Dashboard1.jpg)
 
 
 ### **4. Technologies Used:**
